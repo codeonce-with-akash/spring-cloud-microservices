@@ -11,4 +11,5 @@ public class Employee {
 	private String empName;
 	private String empDesg;
 	private String empEmail;
+	private String orgName;
 }
